@@ -3,7 +3,6 @@ const { createApp } = Vue;
 createApp({
   data() {
     return {
-      stopSlide: false,
       activeImage: 0,
       timer: 0,
       slider: {
