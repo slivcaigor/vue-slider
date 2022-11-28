@@ -8,11 +8,11 @@ createApp({
       slider: {
         slides: [
           '/img/profile-picture.jpg',
-          '/bonus-v2/img/profile-picture-1.jpg',
-          '/bonus-v2/img/profile-picture-2.jpg',
-          '/bonus-v2/img/profile-picture-3.jpg',
-          '/bonus-v2/img/profile-picture-4.jpg',
-          '/bonus-v2/img/profile-picture-5.jpg',
+          '/img/profile-picture-1.jpg',
+          '/img/profile-picture-2.jpg',
+          '/img/profile-picture-3.jpg',
+          '/img/profile-picture-4.jpg',
+          '/img/profile-picture-5.jpg',
         ],
         titles: [
           'Olivia M. Smith',
