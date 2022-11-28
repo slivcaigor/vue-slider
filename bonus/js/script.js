@@ -7,12 +7,12 @@ createApp({
       timer: 0,
       slider: {
         slides: [
-          '/bonus/img/img1.jpg',
-          '/bonus/img/img2.jpg',
-          '/bonus/img/img3.jpg',
-          '/bonus/img/img4.jpg',
-          '/bonus/img/img5.jpg',
-          '/bonus/img/img6.jpg',
+          '/img/img1.jpg',
+          '/img/img2.jpg',
+          '/img/img3.jpg',
+          '/img/img4.jpg',
+          '/img/img5.jpg',
+          '/img/img6.jpg',
         ],
         titles: [
           'Photo by Jannis Lucas',
