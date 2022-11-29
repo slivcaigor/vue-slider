@@ -58,7 +58,7 @@ createApp({
       clearInterval(this.timer);
     },
   },
-  created() {
+  mounted() {
     this.start();
   }
 }).mount('#app')
